@@ -217,7 +217,7 @@ MonoBehaviour:
         stringValue: System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|0
     - fullName: Branch
       uid: 8e93004e-5ae5-43e8-b1e7-301ddbe9475d
-      position: {x: 977.9165, y: -757.1889}
+      position: {x: 980.8549, y: -751.4374}
       nodeUIDs:
       - bbcbf79e-2c7d-46b2-8812-c470a10a0e9a|0
       flowUIDs:
@@ -271,7 +271,7 @@ MonoBehaviour:
     uid: 78053bee-ff56-440c-a3ca-f1988f8c3640
     jsonData: '{"visible":true,"layout":{"serializedVersion":"2","x":10.0,"y":130.0,"width":200.0,"height":150.0}}'
   viewTransform:
-    position: {x: 89, y: 629}
-    scale: 0.65751624
+    position: {x: 60, y: 682}
+    scale: 0.7561437
   version: 1.0.0
   showAssembly: 0
